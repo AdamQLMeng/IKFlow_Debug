@@ -1,0 +1,17 @@
+klampt
+torch==2.0.1
+FrEIA==0.2
+more_itertools
+jrl==0.0.9
+pynvml==11.5.0
+pandas
+qpth
+pytorch-lightning
+tensorboard
+
+[dev]
+PyQt5
+black
+pylint
+wandb
+tabulate
